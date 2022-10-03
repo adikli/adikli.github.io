@@ -1,7 +1,7 @@
 ---
 title: "Members"
 omit_header_text: true
-featured_image: /images/greenhouse.jpg
+featured_image: /images/date.jpg
 menu: main
 ---
 
