@@ -22,4 +22,4 @@ MSc student
 
 MSc student
 
-![Tomer Blansh](/images/ARM.jpg)
+![Tomer Blansh](/images/ARM.tif)
