@@ -16,10 +16,10 @@ Post Doctorate researcher
 
 MSc student
 
-![Noga Daniel](/images/XXX.jpg)
+![Noga Daniel](/images/Tu.jpg)
 
 ### Tomer Blansh
 
 MSc student
 
-![Tomer Blansh](/images/XXX.jpg)
+![Tomer Blansh](/images/ARM.jpg)
