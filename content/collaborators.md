@@ -1,7 +1,7 @@
 ---
 title: "Collaborators"
 omit_header_text: true
-featured_image: /images/ulmi.jpg
+featured_image: /images/ulmi1.jpg
 menu: main
 ---
 
