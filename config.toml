@@ -28,3 +28,8 @@ color = "#f4f4f4"
 name = "google-scholar-square"
 url = "https://scholar.google.co.uk/citations?user=ifC_aRIAAAAJ&hl=en&oi=ao"
 color = "#f4f4f4"
+
+[[params.ananke_socials]]
+name = "square-twitter"
+url = "https://twitter.com/Kliot_lab"
+color = "#f4f4f4"
