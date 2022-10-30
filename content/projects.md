@@ -13,7 +13,7 @@ Our current main research topics are:
 T. urticae or the Two-Spotted Spider Mite (TSSM) is the most economically devastating herbivore mite pest worldwide. It is able to feed on hundreds of different plant crop species. Though having a very small genome, it has highly expanded metabolic gene families which enable it to digest a variety of xenobiotics: be it plant secondary metabolites or acaricides.
 Its short generation time and reproductive characteristics add to its ability to develop acaricide resistance at a remarkable rate. 
 In our lab, we study several aspects of those abilities:
--	We plan to perform surveys from all over Israel, with the help of the Israeli ministry of agriculture's [extension services] (https://www.gov.il/en/departments/units/shaham-unit) , collecting TSSM samples where and whenever an outburst is reported. Those will be tested for resistance to all classes of approved acaricides (in Israel) with known MOAs.
+-	We plan to perform surveys from all over Israel, with the help of the Israeli ministry of agriculture's [extension services](https://www.gov.il/en/departments/units/shaham-unit) , collecting TSSM samples where and whenever an outburst is reported. Those will be tested for resistance to all classes of approved acaricides (in Israel) with known MOAs.
 -	Life history tables, reproductive behaviour and fitness of all susceptible and resistant field-collected populations will be studied.
 -	Known markers to different acaricides will be tested and adjusted to allow for the development of a rapid, genetic-based test for resistance in field populations.
  
@@ -49,4 +49,4 @@ After identifying these effectors, we wish to identify their targets in the plan
 ### 6.	Circadian rhythms in plant feeding mites.
 Circadian rhythms allow organisms to behave in accordance with the daily and seasonal conditions in which they are living. These circadian rhythms change based on environmental cues, such as photoperiod and temperature, to adapt to the constantly changing environment. 
 Circadian rhythms were studied in the "model mite" the Two Spotted Spider Mite (TSSM), Tetranychus urticae, We wish to study further aspects in TSSM and uncover the genetic mechanisms governing these, using  RNA sequencing methods and cutting edge mathematical modelling of gene expression patterns. 
-This research will be conducted in collaboration with [Dr. Rea Antoniou-Kourounioti] (https://www.gla.ac.uk/research/cop26/az/reaantoniou-kourounioti/) from Glasgow University.
+This research will be conducted in collaboration with [Dr. Rea Antoniou-Kourounioti](https://www.gla.ac.uk/research/cop26/az/reaantoniou-kourounioti/) from Glasgow University.
