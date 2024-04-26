@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 omit_header_text: true
-featured_image: /images/watermite.jpg
+featured_image: /images/OP1.jpg
 menu: main
 ---
 
