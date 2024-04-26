@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2022-01-08T19:45:07Z
 omit_header_text: true
-featured_image: /images/greenhouse.jpg
+featured_image: /images/RR1.jpg
 menu: main
 ---
 
