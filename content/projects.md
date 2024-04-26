@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 omit_header_text: true
-featured_image: /images/bioinformatics.jpg
+featured_image: /images/evansi1.jpg
 menu: main
 ---
 
