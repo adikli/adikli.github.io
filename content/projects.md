@@ -11,7 +11,7 @@ Our current main research topics are:
 Tetranychus urticae or the Two-Spotted Spider Mite (TSSM) is the most economically devastating herbivore mite pest worldwide. It is able to feed on hundreds of different plant crop species. Though having a very small genome, it has highly expanded metabolic gene families which enable it to digest a variety of xeno-chemicals: be it plant secondary metabolites or pesticides.
 Its short generation time and reproductive characteristics add to its ability to develop pesticide resistance at a remarkable rate. 
 In our lab, we study several aspects of those abilities:
--	We survey TSSM samples from all over Israel, with the help of Israeli ministry of agriculture' [extension services] (https://www.gov.il/en/departments/units/shaham-unit), collecting TSSM samples where and whenever an outburst is reported. Those are tested for resistance to over 10 different pesticides.
+-	We survey TSSM samples from all over Israel, with the help of Israeli ministry of agriculture's [extension services](https://www.gov.il/en/departments/units/shaham-unit), collecting TSSM samples where and whenever an outburst is reported. Those are tested for resistance to over 10 different pesticides.
 -	Life history tables, reproductive behaviour and fitness of selected susceptible and resistant field-collected populations is studied.
 -	Known markers to different pesticides are tested.
 
